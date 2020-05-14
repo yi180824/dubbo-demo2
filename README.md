@@ -1,4 +1,4 @@
-# 该项目使用maven搭建的父子模块+dubbo来实现分布式，用来测试dubbo实现微服务
+# 该项目使用maven搭建的父子模块+dubbo来实现分布式，用来测试dubbo实现微服务，作为进阶使用
 ## 项目介绍
 	该项目使用spring+dubbo+zookeeper.服务在zookeeper中注册，使用dubbo管理服务.
 ## 项目搭建步骤： 
